@@ -1,0 +1,5 @@
+numpy
+flask
+joblib
+scikit-learn
+pdfplumber
